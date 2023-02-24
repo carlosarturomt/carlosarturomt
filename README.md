@@ -8,15 +8,15 @@ Since 2020 when I was a simple knowledge's lover, I found a way to create a lot 
 
 ### 🛠️ Languages and Tools:
 <p align='center'>
-    <img style='' src='./imgs/php.png' />
+    <img style='' src='./imgs/php.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style='' src='./imgs/laravel.png' />
+    <img style='' src='./imgs/laravel.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-         <img style='' src='./imgs/sass.png' />
+         <img style='' src='./imgs/sass.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style='' src='./imgs/react.png' />
+    <img style='' src='./imgs/react.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style='' src='./imgs/js.png' />
+    <img style='' src='./imgs/js.png'  width="40" height="40"/>
 </p>
 
 If you want to know more about my experience, you can check my repositories.
