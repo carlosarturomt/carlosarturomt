@@ -1,24 +1,25 @@
-![](./img/desk-image.jpg)
+![](./imgs/cover__dev.jpeg)
 
-# Hello world, I'm Eduardo! 👋
+# Hello world, I'm Carlos! 
 
-## About me
+## 📌 About me
 
-Since I finished my degree, I have been studying on my own in different online platforms like Platzi, Udemy and Youtube.
+Since 2020 when I was a simple knowledge's lover, I found a way to create a lot of things with my own hands, my fingers, brain and creativity. I tried to build projects of Frontend, after that Backend, in this moment of my life I continue learning every day to be a great developer. 
 
-PHP is my favorite programming language and I love working with it and Laravel. Currently I'm learning React JS because I consider it a great skill nowadays.
-
+### 🛠️ Languages and Tools:
 <p align='center'>
     <img style='' src='./img/php.png' />
      &nbsp; &nbsp;
     <img style='' src='./img/laravel.png' />
+     &nbsp; &nbsp;
+         <img style='' src='./img/sass.png' />
      &nbsp; &nbsp;
     <img style='' src='./img/react.png' />
      &nbsp; &nbsp;
     <img style='' src='./img/javascript.png' />
 </p>
 
-If you want to know more about my experience, you can check my LinkedIn profile.
+If you want to know more about my experience, you can check my repositories.
 
 <p>
     <a href='https://www.linkedin.com/in/evenegas06/'>
@@ -26,4 +27,4 @@ If you want to know more about my experience, you can check my LinkedIn profile.
     </a>
 </p>
 
-See you later and happy coding!😼
+See you later and happy coding! 👾
