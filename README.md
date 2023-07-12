@@ -1,9 +1,9 @@
 <h1 align="center">
-  <br>
   Carlos Arturo MT 
+  <h4 align="center">Frontend Developer.</h4>
   <br>
 </h1>
-<h4 align="center">Frontend Developer.</h4>
+
 
 ## About Me
 
