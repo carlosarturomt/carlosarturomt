@@ -9,11 +9,13 @@ In addition to, currently I am a Frontend Developer in a International Corporati
 
 ### 🛠️ Languages and Tools:
 <p align='center'>
-    <img style='' src='./imgs/php.png'  width="40" height="40"/>
+    <img style='' src='https://www.gstatic.com/devrel-devsite/prod/v7f3d01938fc1f82b33d8c11166fff9e54cfd22895803f2cef46a3b200be855eb/firebase/images/touchicon-180.png'  width="40" height="40"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/laravel.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-         <img style='' src='./imgs/sass.png'  width="40" height="40"/>
+    <img style='' src='./imgs/sass.png'  width="40" height="40"/>
+     &nbsp; &nbsp;
+    <img style='' src='.https://www.gstatic.com/devrel-devsite/prod/v7f3d01938fc1f82b33d8c11166fff9e54cfd22895803f2cef46a3b200be855eb/firebase/images/touchicon-180.png'  width="40" height="40"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/react.png'  width="40" height="40"/>
      &nbsp; &nbsp;
