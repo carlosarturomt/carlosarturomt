@@ -9,7 +9,9 @@ In addition to, currently I am a Frontend Developer in a International Corporati
 
 ### 🛠️ Languages and Tools:
 <p align='center'>
-    <img src='./imgs/firebase.png'  width="40" height="40"/>
+    
+- <img src='./imgs/firebase.png'  width="40" height="40"/> [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
      &nbsp; &nbsp;
     <img src='./imgs/laravel.png'  width="40" height="40"/>
      &nbsp; &nbsp;
@@ -18,8 +20,6 @@ In addition to, currently I am a Frontend Developer in a International Corporati
     <img style='' src='./imgs/tailwind.png'  width="40" height="40"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/react.png'  width="40" height="40"/>
-     &nbsp; &nbsp;
-    <img src='./imgs/nextjs.png'  width="40" height="44"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/js.png'  width="40" height="40"/>
 </p>
