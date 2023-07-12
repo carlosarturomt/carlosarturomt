@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src='./imgs/CAMT.png' alt="CAMT" width="200"></a>
   <br>
-  Markdownify
+  Carlos Arturo MT 
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Frontend Developer.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -40,7 +40,7 @@ I  have worked with this technologies:
 - <img src='./imgs/js.png'  width="20" height="20"/> [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - <img src='./imgs/react.png'  width="20" height="20"/> [React](https://legacy.reactjs.org/docs/getting-started.html)
 - <img src='./imgs/php.png'  width="20" height="20"/> [PHP](https://www.php.net/)
-- <img src='./imgs/laravel.png'  width="20" height="20"/> [LAravel](https://laravel.com/)
+- <img src='./imgs/laravel.png'  width="20" height="20"/> [Laravel](https://laravel.com/)
 - <img src='./imgs/tailwind.png'  width="20" height="20"/> [Tailwind](https://tailwindcss.com/)
 - <img src='./imgs/sass.png'  width="20" height="20"/> [Sass](https://sass-lang.com/documentation/)
 - If you want to know me a little more clic [here](https://camtlead.com/)
