@@ -9,17 +9,17 @@ In addition to, currently I am a Frontend Developer in a International Corporati
 
 ### 🛠️ Languages and Tools:
 <p align='center'>
-    <img style='' src='./imgs/firebase.png'  width="40" height="40"/>
+    <img src='./imgs/firebase.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style='' src='./imgs/laravel.png'  width="40" height="40"/>
+    <img src='./imgs/laravel.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style='' src='./imgs/sass.png'  width="40" height="40"/>
+    <img src='./imgs/sass.png'  width="40" height="40"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/tailwind.png'  width="40" height="40"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/react.png'  width="40" height="40"/>
      &nbsp; &nbsp;
-    <img style="border-radius: 50% !important;" src='https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.webp?v=1675593584368'  width="40" height="40"/>
+    <img src='./imgs/nextjs.png'  width="45" height="45"/>
      &nbsp; &nbsp;
     <img style='' src='./imgs/js.png'  width="40" height="40"/>
 </p>
