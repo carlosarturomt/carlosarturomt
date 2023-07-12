@@ -32,7 +32,7 @@ I  have worked with this tools:
 
 - <img src='./imgs/firebase.png'  width="20" height="20"/> [Firebase](https://firebase.google.com/?hl=es)
 - <img src='./imgs/git.png'  width="20" height="20"/> [Git](https://git-scm.com/)
-- <img src='./imgs/npm.png'  width="40" height="20"/> [npm](https://www.npmjs.com/)
+- <img src='./imgs/npm.png'  width="30" height="15"/> [npm](https://www.npmjs.com/)
 
 
 - If you want to know me a little more clic [here](https://camtlead.com/)
