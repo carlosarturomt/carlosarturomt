@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src='./imgs/CAMT.png' alt="CAMT" width="200"></a>
-  <br>
   Carlos Arturo MT 
   <br>
 </h1>
