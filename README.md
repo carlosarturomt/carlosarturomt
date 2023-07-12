@@ -4,7 +4,8 @@
 
 ## 📌 About me
 
-Since 2020 when I was a simple knowledge's lover, I found a way to create a lot of things with my own hands, my fingers, brain and creativity. I tried to build projects of Frontend, after that Backend, in this moment of my life I continue learning every day to be a great developer. 
+Since 2020 when I was a simple knowledge's lover, I found a way to create a lot of things with my own hands, my fingers, brain and creativity. I tried to build projects of Frontend, after that: Backend. In this moment of my life I continue learning every day to be a great developer. 
+In addition to, currently I am a Frontend Developer in a International Corporative.
 
 ### 🛠️ Languages and Tools:
 <p align='center'>
