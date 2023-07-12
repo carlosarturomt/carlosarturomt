@@ -19,6 +19,8 @@ In addition to, currently I am a Frontend Developer in a International Corporati
      &nbsp; &nbsp;
     <img style='' src='./imgs/react.png'  width="40" height="40"/>
      &nbsp; &nbsp;
+    <img style='' src='https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.webp?v=1675593584368'  width="40" height="40"/>
+     &nbsp; &nbsp;
     <img style='' src='./imgs/js.png'  width="40" height="40"/>
 </p>
 
